@@ -1,0 +1,14 @@
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.exe
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.deps.json
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.runtimeconfig.json
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.runtimeconfig.dev.json
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.dll
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\bin\Debug\netcoreapp3.1\PokemonDrinkingGame.pdb
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.AssemblyInfoInputs.cache
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.AssemblyInfo.cs
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.csproj.CoreCompileInputs.cache
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.dll
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.pdb
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.genruntimeconfig.cache
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.csproj.AssemblyReference.cache
+C:\Users\J.Meiring\source\repos\PokemonDrinkingGame\obj\Debug\netcoreapp3.1\PokemonDrinkingGame.GeneratedMSBuildEditorConfig.editorconfig
